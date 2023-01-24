@@ -22,11 +22,11 @@ This is the default mainscreen of the application that displays the weather data
 
 This is the page that displays possible locations (only in Kenya at the moment) that provide weather details for replacing the default weather conditions for the home page.
 
-![Locations Page](screenshots/locations.png)
+<img src="screenshots/locations.png" width="128" alt/>
 
 ## Delivery time
 
-The application has been constructed in about 2 days from designing on figma to coding and debugging. 
+The application has been constructed in about 2 days from designing on figma to coding and debugging.
 Start date: 22nd January 2023
 End date: 23rd January 2023
 
