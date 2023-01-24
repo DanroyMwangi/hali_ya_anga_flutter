@@ -10,19 +10,19 @@ The application has 3 pages (see below with screenshots):
 
 This is the page that allows fetching of weather data to display on the home page.
 
-![Loading Page](screenshots/loading.png)
+<img src="screenshots/loading.png" width="50%" alt="Loading Page"/>
 
 ### 2.Home page
 
 This is the default mainscreen of the application that displays the weather data of the desired location.
 
-![Home Page](screenshots/home.png)
+<img src="screenshots/home.png" width="50%" alt="Home Page"/>
 
 ### 3.Locations Page
 
 This is the page that displays possible locations (only in Kenya at the moment) that provide weather details for replacing the default weather conditions for the home page.
 
-<img src="screenshots/locations.png" width="128" alt/>
+<img src="screenshots/locations.png" width="50%" alt="Locations Page"/>
 
 ## Delivery time
 
